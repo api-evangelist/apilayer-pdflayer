@@ -1,0 +1,32 @@
+aid: apilayer-pdflayer
+name: apilayer pdflayer
+description: "HTML/URL to PDF"
+url: https://pdflayer.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: apilayer pdflayer
+    description: "HTML/URL to PDF"
+    humanURL: https://pdflayer.com
+    baseURL: https://pdflayer.com
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://pdflayer.com
+common:
+  - type: Website
+    url: https://pdflayer.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
