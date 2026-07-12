@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://pdflayer.com
 common:
+  - type: DomainSecurity
+    url: security/apilayer-pdflayer-domain-security.yml
   - type: Website
     url: https://pdflayer.com
   - type: PublicAPIsListing
