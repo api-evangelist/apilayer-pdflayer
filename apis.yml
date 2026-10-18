@@ -40,7 +40,8 @@ apis:
   - name: apilayer pdflayer
     description: "HTML/URL to PDF"
     humanURL: https://pdflayer.com
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
